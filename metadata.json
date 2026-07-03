@@ -1,0 +1,6 @@
+{
+  "name": "AI Video Dubber (ចិនទៅខ្មែរ)",
+  "description": "កម្មវិធីបកប្រែវីដេអូចិនទៅជាសម្លេងខ្មែរដោយស្វ័យប្រវត្តិតាមរយៈ AI (Transcribe, Translate, and Dub Chinese videos into Khmer voice)",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
